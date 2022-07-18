@@ -3,3 +3,6 @@ PyQtWebEngine
 PyOt5
 
 PS : code from - https://www.geeksforgeeks.org/creating-a-simple-browser-using-pyqt5/
+
+
+WITHOUT INSTALLING PYTHON 3.7>, THIS CODE WONT WORK
